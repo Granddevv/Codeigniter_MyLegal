@@ -1,0 +1,57 @@
+
+.page-header
+{
+	border-bottom: 0;
+	padding-bottom: 0;
+	margin: 20px 0 10px;
+}
+
+.page-header h1{
+	padding: 5px 10px 10px 0px;
+}
+
+.jobs_container{
+	margin-top: 20px;
+}
+
+.field i{font-weight: bold;}
+.field{
+	color: #666;
+	display: inline-block;
+	margin: 10px;
+	border: 1px solid #eee;
+	padding: 10px;
+	margin-left: 0;
+	margin-right: 20px;
+	background-color: #f8f8f8;
+	text-decoration: none;
+}
+
+.field:hover{
+	text-decoration: none;
+	background-color: #f3f3f3;
+}
+
+.field_options{
+	display: block!important;
+}
+
+.bordered{border: 1px solid #eee; border-radius: 5px}
+.padding_10{padding: 10px;}
+.margin_bottom_10{margin-bottom: 10px;}
+.areas_attached .heading{
+	position: absolute;
+	display: inline-block;
+	margin-top: -20px;
+	color: #999;
+	font-size: 12px;
+	background: white;
+	padding: 0px 5px;
+}
+
+.item{background-color:#f7f7f7; border:  1px solid #eee; margin-bottom: 3px;}
+.item a{color: #555; }
+.item a.btn{color: white;}
+.panel-group .panel-heading + .panel-collapse > .panel-body, .panel-group .panel-heading + .panel-collapse > .list-group{
+	background: white;
+}
